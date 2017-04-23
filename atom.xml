@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.mapan.win/"/>
-  <updated>2017-04-23T05:34:19.726Z</updated>
+  <updated>2017-04-23T06:02:42.499Z</updated>
   <id>http://blog.mapan.win/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://blog.mapan.win/2017/053.html"/>
     <id>http://blog.mapan.win/2017/053.html</id>
     <published>2017-04-23T05:15:00.000Z</published>
-    <updated>2017-04-23T05:34:19.726Z</updated>
+    <updated>2017-04-23T06:02:42.499Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><p>首先抛出一个问题：你有记笔记的习惯吗？我想很多人会说“我从小学就已经开始记笔记了。”可能我们从小学开始老师就会教我们记笔记了，我相信很多人会是这样：把老师板书内容原封不动的“搬到”笔记本上去。</p>
 <p><code>高桥政史</code>认为<br>阻碍你能力发挥的笔记：</p>
@@ -35,21 +35,21 @@
 <table>
 <thead>
 <tr>
-<th></th>
-<th>标题</th>
-<th></th>
+<th style="text-align:center"></th>
+<th style="text-align:center">标题</th>
+<th style="text-align:center"></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>现象</td>
-<td>解释</td>
-<td>措施</td>
+<td style="text-align:center">现象</td>
+<td style="text-align:center">解释</td>
+<td style="text-align:center">措施</td>
 </tr>
 <tr>
-<td>天<strong>空</strong>乌云密布</td>
-<td>可能会下<strong>雨</strong></td>
-<td>出门带雨<strong>伞</strong></td>
+<td style="text-align:center">天<strong>空</strong>乌云密布</td>
+<td style="text-align:center">可能会下<strong>雨</strong></td>
+<td style="text-align:center">出门带雨<strong>伞</strong></td>
 </tr>
 </tbody>
 </table>
