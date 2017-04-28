@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.mapan.win/board/index.html</loc>
+    
+    <lastmod>2017-04-28T15:36:12.300Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.mapan.win/2017/053.html</loc>
     
     <lastmod>2017-04-23T06:02:42.499Z</lastmod>
@@ -61,13 +68,6 @@
     <loc>http://blog.mapan.win/2017/052.html</loc>
     
     <lastmod>2017-04-08T08:24:39.385Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.mapan.win/board/index.html</loc>
-    
-    <lastmod>2017-04-03T09:23:57.507Z</lastmod>
     
   </url>
   
